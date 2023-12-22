@@ -1,5 +1,8 @@
-============****************Simple Banking System Program 🏦*******************==========================
-****Explaining the concept of multithreading and Synchronization in java***************
+****************Simple Banking System Program 🏦*******************
+
+
+Explaining the concept of multithreading and Synchronization in java-----
+
 This program simulates a simple banking system with two customers, "Satyam" and "Shivam," who share a common bank account. The program consists of three classes: Account 💰, Customer 👤, and ThreadSyn 🔄.
 
 1. Account Class:
